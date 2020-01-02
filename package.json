@@ -1,0 +1,27 @@
+{
+  "name": "testing-js-apps",
+  "version": "1.0.0",
+  "description": "Repo for following a course on unit and integration tests with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kregarm/testing-js-apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kregarm/testing-js-apps/issues"
+  },
+  "homepage": "https://github.com/kregarm/testing-js-apps#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
